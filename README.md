@@ -1,4 +1,4 @@
 # firstone
 My first repository
-#README
-Something
+
+And I want to add some text to README and commit changes
